@@ -1,0 +1,4 @@
+.screen-reader-text,
+.visually-hidden {
+  @include visually-hidden;
+}
